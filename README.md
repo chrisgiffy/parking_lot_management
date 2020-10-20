@@ -18,3 +18,6 @@
 
 ``` Run Experiment 2```
 - python train_parkinglot_manual.py
+
+``` For Detailed Case Study Refer to ```
+- https://github.com/chrisgiffy/parking_lot_management/blob/main/Report.pdf
